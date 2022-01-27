@@ -1,4 +1,4 @@
-USE [LDSBC_BA280_DA]
+USE [EC_BA380_DA]
 GO
 
 /****** Object:  Table [dbo].[t_us_state_dim]    Script Date: 1/31/2020 4:23:57 PM ******/
