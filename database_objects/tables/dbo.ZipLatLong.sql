@@ -1,4 +1,4 @@
-USE [LDSBC_BA280_DA]
+USE [EC_BA380_DA]
 GO
 
 /****** Object:  Table [dbo].[ZipLatLong]    Script Date: 1/31/2020 4:12:08 PM ******/
