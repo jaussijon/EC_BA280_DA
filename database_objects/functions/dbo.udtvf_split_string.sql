@@ -1,4 +1,4 @@
-USE [LDSBC_BA280_DA]
+USE [EC_BA380_DA]
 GO
 
 /****** Object:  UserDefinedFunction [dbo].[udtvf_split_string]    Script Date: 3/3/2021 8:20:34 PM ******/
