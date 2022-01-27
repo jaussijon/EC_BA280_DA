@@ -1,4 +1,4 @@
-USE [LDSBC_BA280_DA]
+USE [EC_BA380_DA]
 GO
 
 /****** Object:  UserDefinedFunction [dbo].[udf_parse_string_to_column]    Script LDSBC_BA280_DAte: 3/3/2021 8:21:32 PM ******/
@@ -23,7 +23,7 @@ NAME:    dbo.udf_parse_string_to_column
 PURPOSE: Create the dbo.udf_parse_string_to_column scalar function
 
 MODIFICATION LOG:
-Ver       LDSBC_BA280_DAte         Author                 Description
+Ver       Date         Author                 Description
 -------   ----------   --------------------   ------------------------------------------------------------
 1.0       02/20/2019   Jon Jaussi (JJAUSSI)   1. Built this scalar function
 
