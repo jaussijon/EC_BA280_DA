@@ -1,4 +1,4 @@
-USE [LDSBC_BA280_DA]
+USE [EC_BA380_DA]
 GO
 
 /****** Object:  UserDefinedFunction [dbo].[udf_strip_non_alpha_numeric]    Script Date: 3/3/2021 8:24:17 PM ******/
